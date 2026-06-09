@@ -1,52 +1,99 @@
 # Hi, I'm Kartar Singh 👋
 
-I'm a Computer Science student at **IBA Karachi**, currently obsessed with building games in C++ and figuring out how everything works under the hood.
+I'm a Computer Science student at **IBA Karachi**, passionate about building efficient software systems in C++, exploring computer architecture, and developing games using modern programming concepts.
 
-I started with the basics, got into OOP, and haven't stopped building since — three games shipped so far and more coming.
+I enjoy learning by building — from game development using **Raylib** to designing computational systems in **Logisim** that work at a hardware level.
 
-<br>
+---
 
-## 🎮 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| [**Space Invaders**](https://github.com/Kartarsingh123/space-invaders-oop-cpp) | Full arcade remake built with OOP — Player, Alien, Bullet & Game classes using inheritance and polymorphism | C++ · Raylib |
-| **Snake Game** | Classic Snake with collision detection, smooth movement and score tracking | C++ · Raylib |
-| **Pong** | Two-player Pong with physics-based ball bouncing and paddle collision | C++ · Raylib |
+| Project                                                                         | Description                                                                                                                                                                                                                                | Tech                            |
+| :------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
+| [**Space Invaders**](https://github.com/kartar-singh-cs/space-invaders-oop-cpp) | Arcade-style game built using OOP concepts including classes, inheritance, and polymorphism                                                                                                                                                | C++ · Raylib                    |
+| **Matrix Multiplication TPU (Logisim)**                                         | Designed a **TPU-style matrix multiplication system** using **Instruction RAM, ROM, Tiling, and Systolic Array architecture**, capable of performing **up to 32×32 matrix multiplication** using a simplified 4-instruction control system | Logisim · Computer Architecture |
+| **Snake Game**                                                                  | Classic Snake game with smooth movement, collision detection, and scoring system                                                                                                                                                           | C++ · Raylib                    |
+| **Pong Game**                                                                   | Two-player Pong game with paddle collision and physics-based movement                                                                                                                                                                      | C++ · Raylib                    |
 
-<br>
+---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=raylib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 💻 Programming Languages
 
-**OOP concepts I've used:** Classes · Inheritance · Polymorphism · Encapsulation · Abstraction
+* C++ (OOP + Game Development)
+* Basic Python
+* HTML / CSS / JavaScript (Fundamentals)
 
-<br>
+### 🎮 Game Development
+
+* Raylib (2D game development)
+* Collision detection & game loops
+* Basic physics simulation
+
+### 🧠 Computer Science Concepts
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms (Basic)
+* Computer Architecture (Logisim design systems)
+
+### ⚙️ Tools
+
+* Git & GitHub
+* VS Code
+* Logisim (Digital design & CPU/TPU simulation)
+
+---
+
+## 🧠 Problem Solving
+
+* Solved **50+ LeetCode problems** to improve problem-solving and consistency
+* Actively improving Data Structures and Algorithms skills
+* Focused on writing cleaner and more efficient code
+
+🔗 LeetCode: https://leetcode.com/u/Kartar-Singh/
+🔗 LinkedIn: https://www.linkedin.com/in/kartar-singh-a95b79394/
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Advanced Object-Oriented Programming in C++
+* Computer Architecture fundamentals
+* Mobile App Development basics
+
+---
 
 ## 📊 GitHub Stats
 
-![Kartar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartarsingh123&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartar-singh-cs\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartar-singh-cs\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
 
 ## 📌 Currently
 
-- 🎓 CS @ IBA Karachi
-- 🔨 Building more C++ projects and improving my OOP design
-- 📖 Next focus: Data Structures & Algorithms
-- 💼 Open to internship opportunities in Karachi
+* 🎓 Computer Science student at IBA Karachi
+* 🎮 Building games using C++ and Raylib
+* 🧠 Exploring system-level and architecture concepts
+* 💼 Open to internship opportunities and learning experiences
 
-<br>
+---
+
+## 🌟 Beyond Coding
+
+🏸 Badminton enthusiast
+🎵 Harmonium player & singing hobbyist
+🎬 Content creation & video editing (mini vlogs)
+📱 Interested in mobile software development
+
+---
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/k.singh.32431@khi.iba.edu.pk-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:k.singh.32431@khi.iba.edu.pk)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Kartarsingh123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kartarsingh123)
+📧 Email: [k.singh.32431@khi.iba.edu.pk](mailto:k.singh.32431@khi.iba.edu.pk)
+🔗 GitHub: https://github.com/kartar-singh-cs
+🔗 LinkedIn: https://www.linkedin.com/in/kartar-singh-a95b79394/
+🔗 LeetCode: https://leetcode.com/u/Kartar-Singh/
