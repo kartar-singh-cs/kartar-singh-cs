@@ -1,6 +1,6 @@
 # Hi, I'm Kartar Singh 👋
 
-I'm a Computer Science student at **IBA Karachi** (2nd semester), currently obsessed with building games in C++ and figuring out how everything works under the hood.
+I'm a Computer Science student at **IBA Karachi**, currently obsessed with building games in C++ and figuring out how everything works under the hood.
 
 I started with the basics, got into OOP, and haven't stopped building since — three games shipped so far and more coming.
 
@@ -38,7 +38,7 @@ I started with the basics, got into OOP, and haven't stopped building since — 
 
 ## 📌 Currently
 
-- 🎓 2nd Semester CS @ IBA Karachi
+- 🎓 CS @ IBA Karachi
 - 🔨 Building more C++ projects and improving my OOP design
 - 📖 Next focus: Data Structures & Algorithms
 - 💼 Open to internship opportunities in Karachi
